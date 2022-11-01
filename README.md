@@ -24,4 +24,4 @@ I'm eclipse and im a coder i usually do Lua and some HTML, i started coding rand
 * My own roblox executor?!
 
 ## Desclaimer
-Any and All Projects I make do not promote or are to be used for ill intent or bad purpose, anything a user does with my projects is their responcibility
+Any and All Projects I make do not promote or are to be used for ill intent or bad purpose, anything a user does with my projects is their responsibility
